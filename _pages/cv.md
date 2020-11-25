@@ -17,14 +17,20 @@ Education
 
 Work experience
 ======
+* 2020.11 -- now: Senior Researcher
+  * Tencent AI Lab, Bellevue, WA
+
 * Summer 2020: Research Intern
-  * Tencent AI Lab
+  * Tencent AI Lab, Bellevue, WA
 
 * Summer 2019: Applied Scientist Intern
-  * Amazon Alexa AI
+  * Amazon Alexa AI, Boston, MA
 
 * Summer 2018: Research Intern
-  * Raytheon BBN Technologies
+  * Raytheon BBN Technologies, Cambridge, MA
+
+* Summer 2014 (undergraduate): Student Researcher
+  * University of California Irvine, Irvine, CA
 
 Service
 ======
