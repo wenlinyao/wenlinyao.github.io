@@ -7,7 +7,8 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=qwo2A24AAAAJ&hl=en)<br>
 
-
+* [Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories]<br>
+<strong>Wenlin Yao</strong>, Xiaoman Pan, Lifeng Jin, Jianshu Chen, Dian Yu and Dong Yu. To appear in Proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. (Long Paper)
 * [Weakly Supervised Subevent Knowledge Acquisition](https://www.aclweb.org/anthology/2020.emnlp-main.430/)<br>
 <strong>Wenlin Yao</strong>, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min, Ruihong Huang. in Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020. (Long Paper, Acceptance Rate: 24.2%) <a href="https://github.com/wenlinyao/EMNLP20-SubeventAcquisition">[knowledge/code]</a>
 * [Weakly-supervised Fine-grained Event Recognition on Social Media Texts for Disaster Management](https://aaai.org/ojs/index.php/AAAI/article/view/5391)<br>
