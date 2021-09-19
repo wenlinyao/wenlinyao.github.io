@@ -1,7 +1,7 @@
 Hello! This is the data release version 2.0 (include all narrative texts extracted by the method in this paper).
 
 Acquired event knowledge in the paper "Temporal Event Knowledge Acquisition via Identifying Narratives" (ACL 2018) is available at:
-http://nlp.cs.tamu.edu/People/WenlinYao_files/EventNarratives/event_knowledge_2.0.zip
+https://wenlinyao.github.io/files/EventNarratives/EventNarratives/event_knowledge_2.0.zip
 
 *** Note that this resource can only be used for research purpose. ***
 *** All copyright belongs to the original authors. ***
