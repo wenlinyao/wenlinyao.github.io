@@ -1,0 +1,6 @@
+Hello! The Dataset in this paper is available for research purpose upon request, please contact me at wenlin.yao.cs@gmail.com
+
+Please also cite:
+Amir Fayazi, Kyumin Lee, James Caverlee, and Anna Squicciarini. 2015. Uncovering crowdsourced manipulation of online reviews. 
+In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+ACM, pages 233-242. 
