@@ -13,6 +13,8 @@ Hello! I am a Senior Researcher at <a href="https://ai.tencent.com/ailab/en/inde
 
 Recent News
 ======
+* 2022.02: Two papers got accepted to ACL 2022!
+
 * 2021.09: One paper got accepted to EMNLP 2021!
 
 * 2021.01: My Ph.D. dissertation <a href="https://oaktrust.library.tamu.edu/handle/1969.1/192786">Weakly-supervised Learning Approaches for Event Knowledge Acquisition and Event Detection</a> is now available!

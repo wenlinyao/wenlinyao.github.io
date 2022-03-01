@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=qwo2A24AAAAJ&hl=en)<br>
-
+* [Learning-by-Narrating: Narrative Pre-training for Zero-Shot Dialogue Comprehension] Chao Zhao, <strong>Wenlin Yao</strong>, Dian Yu, Kaiqiang Song, Dong Yu, Jianshu Chen. To appear in Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), 2022. (Short Paper)
+* [C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References] Xiang Yue, Xiaoman Pan, <strong>Wenlin Yao</strong>, Dian Yu, Dong Yu, Jianshu Chen. To appear in Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), 2022. (Short Paper)
 * [Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories](https://aclanthology.org/2021.emnlp-main.610/)<br>
 <strong>Wenlin Yao</strong>, Xiaoman Pan, Lifeng Jin, Jianshu Chen, Dian Yu and Dong Yu. in Proceedings of The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. (Long Paper, Acceptance Rate: 23.3%) <a href="https://github.com/tencent-ailab/EMNLP21_SemEq">[model/code]</a>
 * [Weakly Supervised Subevent Knowledge Acquisition](https://www.aclweb.org/anthology/2020.emnlp-main.430/)<br>
