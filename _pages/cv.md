@@ -34,9 +34,11 @@ Work experience
 
 Service
 ======
-Program Committee Member: AAAI 2022, EMNLP 2021, ACL-IJCNLP 2021, <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>, <a href="https://2020.emnlp.org/">EMNLP 2020</a>, <a href="http://aacl2020.org/">AACL-IJCNLP 2020</a>, <a href="https://aaai.org/Conferences/AAAI-20/">AAAI 2020</a>, <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP-IJCNLP 2019</a>, <a href="http://www.acl2019.org/EN/index.xhtml">ACL 2019</a>, <a href="http://naacl2019.org/">NAACL 2019</a>, <a href="http://emnlp2018.org/">EMNLP 2018</a>, <a href="http://tcci.ccf.org.cn/conference/2018/">NLPCC 2018</a>, <a href= "http://tcci.ccf.org.cn/conference/2017/">NLPCC 2017</a>.
+Program Committee Member: SPC AAAI 2023, AAAI 2022-2020, ACL 2021-2019, EMNLP 2022-2018, NAACL 2022 2021 2019, AACL-IJCNLP 2022 2020, COLING 2022, NLPCC 2022 2017.
 <br>
 Journal reviewer: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE Intelligent Systems</a>, <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge-Based Systems</a>, <a href="https://www.journals.elsevier.com/big-data-research">Big Data Research</a>, <a href="https://dl.acm.org/journal/tallip">ACM TALLIP</a>. 
+<br>
+Swiss National Science Foundation (SNSF) and Japan Society for the Promotion Science (JSPS): Proposal Evaluation Committee Member.
 
 
 More about Me
