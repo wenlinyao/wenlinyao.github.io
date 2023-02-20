@@ -13,6 +13,10 @@ Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab
 
 Recent News
 ======
+* 2023.1: One paper got accepted to EACL 2023!
+
+* 2023.1: One paper got accepted to ICLR 2023!
+
 * 2022.10: Four papers got accepted to EMNLP 2022!
 
 * 2022.02: Two papers got accepted to ACL 2022!
