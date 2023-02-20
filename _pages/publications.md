@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=qwo2A24AAAAJ&hl=en)<br>
-* [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models]()<br> Xiaoman Pan, <strong>Wenlin Yao</strong>, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen. to appear in Eleventh International Conference on Learning Representations (ICLR), 2023. (Spotlight, notable-top25%)
+* [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://openreview.net/forum?id=a2jNdqE2102)<br> Xiaoman Pan, <strong>Wenlin Yao</strong>, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen. to appear in Eleventh International Conference on Learning Representations (ICLR), 2023. (Spotlight, notable-top25%)
 * [How do Words Contribute to Sentence Semantics? A Perturbation Approach with the Discourse Relation Recognizer]()<br> <strong>Wenlin Yao</strong>, Lifeng Jin, Hongming Zhang, Xiaoman Pan, Kaiqiang Song, Dian Yu, Dong Yu and Jianshu Chen. to appear in The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023. (Short Paper)
 * [Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination](https://aclanthology.org/2022.emnlp-main.78/)<br> Yue Yang, <strong>Wenlin Yao</strong>, Hongming Zhang, Xiaoyang Wang, Dong Yu and Jianshu Chen. in Proceedings of The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. (Long Paper)
 * [Efficient Zero-shot Event Extraction with Context-Definition Alignment](https://aclanthology.org/2022.findings-emnlp.531/)<br> Hongming Zhang, <strong>Wenlin Yao</strong> and Dong Yu. in Findings of The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. (Long Paper)
