@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Seattle). <a href="https://ai.tencent.com/ailab/nlp/en/index.html">More</a> about NLP research at Tencent AI Lab. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> under the supervision of <a href = "http://faculty.cse.tamu.edu/huangrh/">Prof. Ruihong Huang</a> in 2020. I got my Bachelor's degree from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
+Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Seattle). <a href="https://ai.tencent.com/ailab/nlp/en/index.html">More</a> about NLP research at Tencent AI Lab. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
 
 
 Recent News
 ======
+* 2023.10: One paper got accepted to EMNLP 2023!
+
+* 2023.9: One paper got accepted to NeurIPS 2023!
+
 * 2023.1: One paper got accepted to EACL 2023!
 
 * 2023.1: One paper got accepted to ICLR 2023!
