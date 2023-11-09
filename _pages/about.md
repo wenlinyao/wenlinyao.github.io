@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Seattle). <a href="https://ai.tencent.com/ailab/nlp/en/index.html">More</a> about NLP research at Tencent AI Lab. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015. Currently, I am working on developing different approaches to achieve scalable oversight for Large Language Models.
+Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Seattle). <a href="https://ai.tencent.com/ailab/nlp/en/index.html">More</a> about NLP research at Tencent AI Lab. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015. Currently, I am working on developing different approaches to achieve scalable oversight (super alignment) for Large Language Models.
 
 
 Recent News
