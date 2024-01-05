@@ -13,6 +13,8 @@ Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab
 
 Recent News
 ======
+* 2023.12: <span style="color:red;">Our paper got the Outstanding Paper Award of EMNLP 2023!</span> Read more: <a href="https://aclanthology.org/2023.emnlp-main.900/">Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations</a>
+
 * 2023.10: One paper got accepted to EMNLP 2023!
 
 * 2023.9: One paper got accepted to NeurIPS 2023!
