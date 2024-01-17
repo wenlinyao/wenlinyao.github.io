@@ -27,7 +27,7 @@ Work experience
   * Amazon Alexa AI, Boston, MA
 
 * Summer 2018: Research Intern
-  * Raytheon BBN Technologies, Cambridge, MA
+  * BBN Technologies, Cambridge, MA
 
 * Summer 2014 (undergraduate): Student Researcher
   * University of California Irvine, Irvine, CA
