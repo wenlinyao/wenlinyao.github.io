@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,7 +34,7 @@ Work experience
 
 Service
 ======
-Program Committee Member: SPC AAAI 2023, AAAI 2022-2020, ACL 2021-2019, EMNLP 2022-2018, NAACL 2022 2021 2019, AACL-IJCNLP 2022 2020, COLING 2022, NLPCC 2022 2017.
+Program Committee Member: SPC AAAI 2024-2023, SPC COLING 2024, ACL 2024-2019, EMNLP 2024-2018, NAACL 2024-2019, AAAI 2022-2020, AACL-IJCNLP 2022 2020, COLING 2022, NLPCC 2022 2017.
 <br>
 Journal reviewer: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE Intelligent Systems</a>, <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge-Based Systems</a>, <a href="https://www.journals.elsevier.com/big-data-research">Big Data Research</a>, <a href="https://dl.acm.org/journal/tallip">ACM TALLIP</a>. 
 <br>

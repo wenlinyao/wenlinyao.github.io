@@ -15,6 +15,8 @@ I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department
 
 Recent News
 ======
+* 2024.3: Two papers got accepted to NAACL 2024!
+
 * 2023.12: <span style="color:red;">Our paper got the Outstanding Paper Award of EMNLP 2023!</span> Read more: <a href="https://aclanthology.org/2023.emnlp-main.900/">Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations</a>
 
 * 2023.10: One paper got accepted to EMNLP 2023!
