@@ -19,6 +19,10 @@ Recent News
 
 * 2023.12: <span style="color:red;">Our paper got the Outstanding Paper Award of EMNLP 2023!</span> Read more: <a href="https://aclanthology.org/2023.emnlp-main.900/">Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations</a>
 
+* 2024.5: Three papers got accepted to ACL 2024!
+
+* 2024.3: Two papers got accepted to NAACL 2024!
+
 * 2023.10: One paper got accepted to EMNLP 2023!
 
 * 2023.9: One paper got accepted to NeurIPS 2023!
@@ -31,9 +35,9 @@ Recent News
 
 * 2022.02: Two papers got accepted to ACL 2022!
 
+<!---
 * 2021.09: One paper got accepted to EMNLP 2021!
 
-<!---
 * 2021.01: My Ph.D. dissertation <a href="https://oaktrust.library.tamu.edu/handle/1969.1/192786">Weakly-supervised Learning Approaches for Event Knowledge Acquisition and Event Detection</a> is now available!
 
 * 2020.12: I have released all relational common-sense knowledge between events <a href="https://github.com/wenlinyao/EventCommonSenseKnowledge_dissertation">[link]</a>. It contains subevent, temporal, and causal commmon-sense knowledge between events. For more details, please refer to my dissertation or previous papers. My Ph.D. dissertation will be released very soon!<br>
