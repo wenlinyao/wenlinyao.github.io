@@ -17,9 +17,14 @@ Education
 
 Work experience
 ======
-* 2020.11 -- now: Senior Researcher
+* 2024.10 -- now: Senior Applied Scientist
+  * Amazon Rufus, Seattle, WA
+
+* 2020.11 -- 2024.10: Senior Researcher
   * Tencent AI Lab, Bellevue, WA
 
+
+<!---
 * Summer 2020: Research Intern
   * Tencent AI Lab, Bellevue, WA
 
@@ -31,10 +36,11 @@ Work experience
 
 * Summer 2014 (undergraduate): Student Researcher
   * University of California Irvine, Irvine, CA
+-->
 
 Service
 ======
-Program Committee Member: SPC AAAI 2024-2023, SPC COLING 2024, ACL 2024-2019, EMNLP 2024-2018, NAACL 2024-2019, AAAI 2022-2020, AACL-IJCNLP 2022 2020, COLING 2022, NLPCC 2022 2017.
+Program Committee Member: SPC AAAI 2025-2023, SPC COLING 2024, ACL 2024-2019, EMNLP 2024-2018, NAACL 2024-2019, AAAI 2022-2020, AACL-IJCNLP 2022 2020, COLING 2022, NLPCC 2022 2017.
 <br>
 Journal reviewer: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE Intelligent Systems</a>, <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge-Based Systems</a>, <a href="https://www.journals.elsevier.com/big-data-research">Big Data Research</a>, <a href="https://dl.acm.org/journal/tallip">ACM TALLIP</a>. 
 <br>

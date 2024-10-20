@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Research Scientist at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Seattle). Currently, I am working on developing different approaches to achieve scalable oversight (super alignment) for Large Language Models. <a href="https://ai.tencent.com/ailab/nlp/en/index.html">More</a> about NLP research at Tencent AI Lab.
-
-I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015. 
+Hello! I am a Senior Applied Scientist at Amazon, working on GenAI for shopping. Prior to that, I was a Senior Researcher at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Bellevue). I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
 
 
 Recent News
 ======
+* 2024.9: One paper got accepted to NeurIPS 2024!
+
+* 2024.9: One paper got accepted to EMNLP 2024!
+
 * 2024.5: Three papers got accepted to ACL 2024!
 
 * 2024.3: Two papers got accepted to NAACL 2024!
