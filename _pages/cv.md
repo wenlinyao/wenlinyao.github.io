@@ -9,20 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, Texas A&M University, 2020
-* B.E. in Software Engineering, Dalian University of Technology, 2015
-
 
 Work experience
 ======
-* 2024.10 -- now: Senior Applied Scientist
+* 2026.1 -- now: Principle Researcher
+  * Microsoft Research, Redmond, WA
+
+* 2024.10 -- 2026.1: Senior Applied Scientist
   * Amazon Rufus, Seattle, WA
 
 * 2020.11 -- 2024.10: Senior Researcher
   * Tencent AI Lab, Bellevue, WA
 
+
+Education
+======
+* Ph.D in Computer Science, Texas A&M University, 2020
+* B.E. in Software Engineering, Dalian University of Technology, 2015
 
 <!---
 * Summer 2020: Research Intern
