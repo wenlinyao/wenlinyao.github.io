@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Applied Scientist at Amazon, working on <a href="https://www.aboutamazon.com/news/retail/amazon-rufus">GenAI for shopping</a>. Prior to that, I was a Senior Researcher at <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a> (Bellevue). I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
+Hello! I am a Principle Researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research, Redmond</a>. Prior to this, I was a Senior Applied Scientist at Amazon Stores Foundational AI, working on <a href="https://www.aboutamazon.com/news/retail/amazon-rufus">GenAI for shopping</a>. Prior to that, I was a Senior Researcher at <a href="https://ailab.tencent.com/ailab/en/about/">Tencent AI Lab, Bellevue</a>. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (with Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
+
+
+Selected Projects: <a href="https://arxiv.org/abs/2401.13919">WebVoyager</a>, <a href="https://arxiv.org/abs/2410.19609">OpenWebVoyager</a>, <a href="https://arxiv.org/abs/2505.16421">WebAgent-R1</a>, <a href="https://arxiv.org/abs/2409.07703">DSBench</a>, <a href="https://arxiv.org/abs/2401.03601">InFoBench</a>, <a href="https://aclanthology.org/2024.naacl-long.70.pdf">MMC</a>.
 
 
 Recent News
 ======
+* 2025.8: One paper got accepted to EMNLP 2025!
+
+* 2025.5: One paper got accepted to ACL 2025!
+
+* 2025.1: Two papers got accepted to ICLR 2025!
+
 * 2024.9: One paper got accepted to NeurIPS 2024!
 
 * 2024.9: One paper got accepted to EMNLP 2024!
@@ -31,11 +40,12 @@ Recent News
 
 * 2023.1: One paper got accepted to ICLR 2023!
 
+<!---
 * 2022.10: Four papers got accepted to EMNLP 2022!
 
 * 2022.02: Two papers got accepted to ACL 2022!
 
-<!---
+
 * 2021.09: One paper got accepted to EMNLP 2021!
 
 * 2021.01: My Ph.D. dissertation <a href="https://oaktrust.library.tamu.edu/handle/1969.1/192786">Weakly-supervised Learning Approaches for Event Knowledge Acquisition and Event Detection</a> is now available!
