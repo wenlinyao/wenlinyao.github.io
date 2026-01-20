@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Principle Researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research, Redmond</a>. Prior to this, I was a Senior Applied Scientist at Amazon Stores Foundational AI, working on <a href="https://www.aboutamazon.com/news/retail/amazon-rufus">GenAI for shopping</a>. Prior to that, I was a Senior Researcher at <a href="https://ailab.tencent.com/ailab/en/about/">Tencent AI Lab, Bellevue</a>. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (with Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
+Hello! I am a Principle Researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research, Redmond</a>. Prior to this, I was a Senior Applied Scientist at Amazon Stores Foundational AI, working on <a href="https://www.aboutamazon.com/news/retail/amazon-rufus">GenAI for shopping</a>. Before that, I was a Senior Researcher at <a href="https://ailab.tencent.com/ailab/en/about/">Tencent AI Lab, Bellevue</a>. I earned my Ph.D. from the <a href="https://engineering.tamu.edu/cse">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University (TAMU)</a> in 2020. Before that, I got my Bachelor's degree (with Outstanding Graduate Award) from <a href="http://www.dlut.edu.cn/">Dalian University of Technology (DUT)</a> in 2015.
+
+
+My research interests center on improving foundation LLMs through end-to-end Reinforcement Learning and agentic frameworks, with a focus on complex problem-solving, tool usage, and interaction with environments.
 
 
 Selected Projects: <a href="https://arxiv.org/abs/2401.13919">WebVoyager</a>, <a href="https://arxiv.org/abs/2410.19609">OpenWebVoyager</a>, <a href="https://arxiv.org/abs/2505.16421">WebAgent-R1</a>, <a href="https://arxiv.org/abs/2409.07703">DSBench</a>, <a href="https://arxiv.org/abs/2401.03601">InFoBench</a>, <a href="https://aclanthology.org/2024.naacl-long.70.pdf">MMC</a>.
